@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <body>
+       <title>resume</title> 
+        <header>
+            <strong>
+                <h1 style="color:blue;">M. Sai Charitha </h1>
+                <h2 style="color:blue;">Phone:8074330402</h2>
+                <h3 style= "color:blue;">Email:saicharithayadav@gmail.com</h3>
+            </strong>
+        </header>
+        <hr>
+        <h2 style="color:blue;">Objective:</h2>
+        <p1>To use my expert problem solving and communication skills to work with team developing products and tools people love to use</p1>
+        <h2 style="color:blue;">Education</h2>
+        <p2>Pursuing B.Tech. Computer Science Engineering (CSE) in Shiv Nadar University, Chennai. Expecting second year completion in May 2023. </p2>
+        <h2 style="color:blue;">Technical Skills</h2>
+        <p2>Programming Languages: C, Java and Python
+            Microsoft Office (Word, Excel, PowerPoint)  
+        </p2>
+        <h2 style="color:blue;">Course Work</h2>
+        <p2>
+            IV Semester
+Computer Networks, Design and Analysis of Algorithms        Operating Systems, Agile Scrum Process  
+Foundations of Data Science             Introduction to Sensor Technology
+III Semester
+Data Structures, Database Management Systems        Object Oriented Programming
+          Software Engineering and Design               Discrete Mathematics and Graph Theory
+II Semester
+Python                      Introduction to Internet of things
+I Semester
+          C Programming
+
+        </p2>
+        <h2 style="color:blue;">Field of Interest</h2>
+        <p2>
+         Cloud Computing 
+         Interest of Things (IOT)
+         </p2>
+         <h2 style="color:blue;">Soft Skills</h2>
+         <p2>
+            A team player, self-motivated, adaptability and flexibility in the working environment
+            Excellent communication and inter personal skills
+            Profound commitment and determination towards work and professional goals
+            Good analytical power and comprehensive problem solving abilities
+        </p2>
+        <h2 style="color:blue;">Academic Profile</h2>
+        <table>
+            <tr>
+                <th>Class</th>
+                <th>Year of completion</th>
+                <th>Percentage</th>
+            </tr>
+            <tr>
+                <td>tenth</td>
+                <td>2019</td>
+                <td>CGPA 10/10</td>
+            </tr>
+            <tr>
+                <td>Intermediate</td>
+                <td>2021</td>
+                <td>97.4%</td>
+            </tr>
+        </table>
+    </body>
+
+</html>
